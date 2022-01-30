@@ -1,4 +1,4 @@
-## Getting-and-Claning-DataCourse-Project
+Getting-and-Claning-DataCourse-Project
 
 ## Created a script with below actions
 
