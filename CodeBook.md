@@ -1,4 +1,4 @@
-"subject",
+"subject"
 "activity",
 "activit_name"
 "tBodyAcc-mean()-X",
