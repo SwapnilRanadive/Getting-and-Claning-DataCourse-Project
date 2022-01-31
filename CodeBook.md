@@ -1,5 +1,5 @@
-"subject"
-"activity",
+subject
+activity
 "activit_name"
 "tBodyAcc-mean()-X",
 "tBodyAcc-mean()-Y",
