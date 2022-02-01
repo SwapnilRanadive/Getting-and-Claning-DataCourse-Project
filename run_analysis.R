@@ -607,7 +607,7 @@ colnames(complete_data) <-c(
 extract_data <- select(complete_data, contains(c("mean", "std")))
 
 ##extract subject and activity coulmns
-extract_data_initial <- select(complete_data, subject:actiity)
+extract_data_initial <- select(complete_data, subject:activity)
 
 ##combine above created datasets
 extract_dataframe <- data.frame(extract_data_initial, extract_data)
